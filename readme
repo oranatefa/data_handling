@@ -1,0 +1,3 @@
+ssh oran@192.168.90.211  /home/oran/Desktop/result_handler/cgi-bin/copy_data.sh
+ssh oran@192.168.90.211  /home/oran/Desktop/result_handler/push_status.sh
+

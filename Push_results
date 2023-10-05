@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PushResults
+Comment=just_do_it
+Exec=/home/oran/Desktop/result_handler/push_cbc_df.sh
+Icon=/home/oran/Desktop/result_handler/m_and_a.png
+Terminal=true
+Type=Application

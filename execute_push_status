@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Exec=/home/oran/Desktop/result_handler/push_status.sh
+Terminal=true
+X-GNOME-Autostart-enabled=true
